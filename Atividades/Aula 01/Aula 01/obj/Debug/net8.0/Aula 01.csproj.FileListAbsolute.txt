@@ -1,0 +1,34 @@
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\appsettings.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.staticwebassets.runtime.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.staticwebassets.endpoints.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.exe
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.deps.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.runtimeconfig.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.dll
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\bin\Debug\net8.0\Aula 01.pdb
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.AssemblyInfoInputs.cache
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.AssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.csproj.CoreCompileInputs.cache
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.RazorAssemblyInfo.cache
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.RazorAssemblyInfo.cs
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\scopedcss\bundle\Aula 01.styles.css
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\scopedcss\projectbundle\Aula 01.bundle.scp.css
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets\msbuild.Aula 01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets\msbuild.Aula 01.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets\msbuild.build.Aula 01.props
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Aula 01.props
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Aula 01.props
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.dll
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\refint\Aula 01.dll
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.pdb
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.genruntimeconfig.cache
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\ref\Aula 01.dll

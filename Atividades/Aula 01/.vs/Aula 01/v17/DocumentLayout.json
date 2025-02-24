@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\aula 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\aula 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aula 01.csproj",
+              "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Aula 01.csproj",
+              "RelativeDocumentMoniker": "Aula 01\\Aula 01.csproj",
+              "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Aula 01.csproj",
+              "RelativeToolTip": "Aula 01\\Aula 01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T22:49:02.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
