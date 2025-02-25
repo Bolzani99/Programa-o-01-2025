@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\aula 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\aula 01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula 01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aula 01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T00:24:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula 01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula 01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:20:17.446Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Aula 01.csproj",
-              "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Aula 01.csproj",
-              "RelativeDocumentMoniker": "Aula 01\\Aula 01.csproj",
-              "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Aula 01.csproj",
-              "RelativeToolTip": "Aula 01\\Aula 01.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-24T22:49:02.716Z",
+              "Title": "Variaveis.cs",
+              "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Models\\Variaveis.cs",
+              "RelativeDocumentMoniker": "Aula 01\\Models\\Variaveis.cs",
+              "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Models\\Variaveis.cs",
+              "RelativeToolTip": "Aula 01\\Models\\Variaveis.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:22:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Program.cs",
+              "RelativeDocumentMoniker": "Aula 01\\Program.cs",
+              "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Program.cs",
+              "RelativeToolTip": "Aula 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:07:22.682Z",
               "EditorCaption": ""
             }
           ]

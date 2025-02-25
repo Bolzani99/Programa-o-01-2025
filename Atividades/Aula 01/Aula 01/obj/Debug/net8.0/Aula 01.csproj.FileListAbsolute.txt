@@ -32,3 +32,4 @@ C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\
 C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.pdb
 C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.genruntimeconfig.cache
 C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\ref\Aula 01.dll
+C:\Users\rastreamento\Desktop\Programação 1 - 2025\Atividades\Aula 01\Aula 01\obj\Debug\net8.0\Aula 01.sourcelink.json
