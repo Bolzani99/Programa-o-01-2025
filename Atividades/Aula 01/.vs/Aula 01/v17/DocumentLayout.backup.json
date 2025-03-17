@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|c:\\users\\rastreamento\\desktop\\programa\u00E7\u00E3o 1 - 2025\\atividades\\aula 01\\aula 01\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46A80F6C-57C9-4F58-979D-0E2B77FE3D0C}|Aula 01\\Aula 01.csproj|solutionrelative:aula 01\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Teste.cshtml",
               "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Views\\Teste\\Teste.cshtml",
               "RelativeDocumentMoniker": "Aula 01\\Views\\Teste\\Teste.cshtml",
@@ -42,25 +42,24 @@
               "RelativeToolTip": "Aula 01\\Views\\Teste\\Teste.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T23:47:55.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:47:55.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Views\\Teste\\Index.cshtml",
               "RelativeDocumentMoniker": "Aula 01\\Views\\Teste\\Index.cshtml",
               "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Views\\Teste\\Index.cshtml",
               "RelativeToolTip": "Aula 01\\Views\\Teste\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-10T23:47:30.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aula 01\\Controllers\\HomeController.cs",
@@ -73,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TesteController.cs",
               "DocumentMoniker": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Controllers\\TesteController.cs",
               "RelativeDocumentMoniker": "Aula 01\\Controllers\\TesteController.cs",
               "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Controllers\\TesteController.cs",
               "RelativeToolTip": "Aula 01\\Controllers\\TesteController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:17:18.109Z",
               "EditorCaption": ""

@@ -42,8 +42,7 @@
               "RelativeToolTip": "Aula 01\\Views\\Teste\\Teste.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T23:47:55.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:47:55.271Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Aula 01\\Views\\Teste\\Index.cshtml",
               "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Views\\Teste\\Index.cshtml",
               "RelativeToolTip": "Aula 01\\Views\\Teste\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-10T23:47:30.14Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Aula 01\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:21:26.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:21:26.585Z"
             },
             {
               "$type": "Document",
@@ -79,10 +77,9 @@
               "RelativeDocumentMoniker": "Aula 01\\Controllers\\TesteController.cs",
               "ToolTip": "C:\\Users\\rastreamento\\Desktop\\Programa\u00E7\u00E3o 1 - 2025\\Atividades\\Aula 01\\Aula 01\\Controllers\\TesteController.cs",
               "RelativeToolTip": "Aula 01\\Controllers\\TesteController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:17:18.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:17:18.109Z"
             }
           ]
         }
