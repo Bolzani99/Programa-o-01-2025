@@ -1,0 +1,37 @@
+﻿@model NumeroPorExtenso.Models.NumeroModel
+
+@{
+    ViewData["Title"] = "Número por Extenso";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white text-center">
+                    <h3>Número por Extenso</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Index" method="post">
+                        <div class="form-group">
+                            <label asp-for="Numero" class="control-label"><strong>Digite um número:</strong></label>
+                            <input asp-for="Numero" class="form-control" placeholder="Ex: 123" />
+                            <span asp-validation-for="Numero" class="text-danger"></span>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary btn-lg">Converter</button>
+                        </div>
+                    </form>
+
+                    @if (ViewBag.NumeroPorExtenso != null)
+                    {
+                        <div class="alert alert-success mt-4 text-center">
+                            <h4>Número por Extenso:</h4>
+                            <p class="lead">@ViewBag.NumeroPorExtenso</p>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
