@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Jogo da Velha";
+}
+
+<h1>Jogo da Velha</h1>
+
+@if (ViewBag.Vencedor != null)
+{
+    <div class="alert alert-success">
+        Jogador @ViewBag.Vencedor venceu!
+        <a href="/JogoVelha" class="btn btn-primary">Jogar Novamente</a>
+    </div>
+}
+else if (ViewBag.Empate)
+{
+    <div class="alert alert-warning">
+        Empate!
+        <a href="/JogoVelha" class="btn btn-primary">Jogar Novamente</a>
+    </div>
+}
+else
+{
+    <p>Jogador atual: @ViewBag.JogadorAtual</p>
+}
+
+<form method="post">
+    <table class="table table-bordered" style="width: 300px;">
+        @for (int i = 0; i < 3; i++)
+        {
+            <tr>
+                @for (int j = 0; j < 3; j++)
+                {
+                    <td style="width: 100px; height: 100px; text-align: center; vertical-align: middle;">
+                        @if (string.IsNullOrEmpty(ViewBag.Tabuleiro[i, j]))
+                        {
+                            <button type="submit"
+                                    name="A@(i)@(j)"
+                                    value="@ViewBag.JogadorAtual"
+                                    class="btn btn-outline-primary"
+                                    style="width: 100%; height: 100%; font-size: 24px;">
+                                &nbsp;
+                            </button>
+                        }
+                        else
+                        {
+                            <span style="font-size: 24px;">@ViewBag.Tabuleiro[i, j]</span>
+                            <input type="hidden" name="A@(i)@(j)" value="@ViewBag.Tabuleiro[i, j]" />
+                        }
+                    </td>
+                }
+            </tr>
+        }
+    </table>
+    <input type="hidden" name="jogadorAtual" value="@ViewBag.JogadorAtual" />
+</form>
