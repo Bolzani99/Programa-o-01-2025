@@ -2,54 +2,42 @@
     ViewData["Title"] = "Jogo da Velha";
 }
 
-<h1>Jogo da Velha</h1>
+<h2>Jogo da Velha</h2>
 
 @if (ViewBag.Vencedor != null)
 {
-    <div class="alert alert-success">
-        Jogador @ViewBag.Vencedor venceu!
-        <a href="/JogoVelha" class="btn btn-primary">Jogar Novamente</a>
-    </div>
+    <p>Jogador @ViewBag.Vencedor venceu!</p>
+    <a href="/JogoVelha">Jogar novamente</a>
 }
 else if (ViewBag.Empate)
 {
-    <div class="alert alert-warning">
-        Empate!
-        <a href="/JogoVelha" class="btn btn-primary">Jogar Novamente</a>
-    </div>
+    <p>Empate!</p>
+    <a href="/JogoVelha">Reiniciar</a>
 }
 else
 {
-    <p>Jogador atual: @ViewBag.JogadorAtual</p>
+    <p>Próximo jogador: @ViewBag.JogadorAtual</p>
 }
 
 <form method="post">
-    <table class="table table-bordered" style="width: 300px;">
-        @for (int i = 0; i < 3; i++)
-        {
-            <tr>
-                @for (int j = 0; j < 3; j++)
-                {
-                    <td style="width: 100px; height: 100px; text-align: center; vertical-align: middle;">
-                        @if (string.IsNullOrEmpty(ViewBag.Tabuleiro[i, j]))
-                        {
-                            <button type="submit"
-                                    name="A@(i)@(j)"
-                                    value="@ViewBag.JogadorAtual"
-                                    class="btn btn-outline-primary"
-                                    style="width: 100%; height: 100%; font-size: 24px;">
-                                &nbsp;
-                            </button>
-                        }
-                        else
-                        {
-                            <span style="font-size: 24px;">@ViewBag.Tabuleiro[i, j]</span>
-                            <input type="hidden" name="A@(i)@(j)" value="@ViewBag.Tabuleiro[i, j]" />
-                        }
-                    </td>
-                }
-            </tr>
-        }
+    <table border="1" cellspacing="5" cellpadding="10">
+        <tr>
+            <td><input type="text" name="A00" value="@ViewBag.Tabuleiro?[0,0]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+            <td><input type="text" name="A01" value="@ViewBag.Tabuleiro?[0,1]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+            <td><input type="text" name="A02" value="@ViewBag.Tabuleiro?[0,2]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+        </tr>
+        <tr>
+            <td><input type="text" name="A10" value="@ViewBag.Tabuleiro?[1,0]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+            <td><input type="text" name="A11" value="@ViewBag.Tabuleiro?[1,1]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+            <td><input type="text" name="A12" value="@ViewBag.Tabuleiro?[1,2]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+        </tr>
+        <tr>
+            <td><input type="text" name="A20" value="@ViewBag.Tabuleiro?[2,0]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+            <td><input type="text" name="A21" value="@ViewBag.Tabuleiro?[2,1]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+            <td><input type="text" name="A22" value="@ViewBag.Tabuleiro?[2,2]" maxlength="1" pattern="[XO]" title="Digite X ou O" style="width:30px; text-align:center" /></td>
+        </tr>
     </table>
+
     <input type="hidden" name="jogadorAtual" value="@ViewBag.JogadorAtual" />
+    <input type="submit" value="Confirmar jogada" style="margin-top:10px;" />
 </form>
