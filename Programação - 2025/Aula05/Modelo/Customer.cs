@@ -8,6 +8,8 @@ namespace Modelo
         public string? HomeAddress { get; set; }
         public string? WorkAddress { get; set; }
         
+        public static InstanceCount = 0; 
+        public int ObjectCount = 0;
         public bool Validade()
         {
             return true;
